@@ -16,8 +16,8 @@
 * ~~支持跨平台部署。~~[^2]
 
 #### 下载地址
-* [账密宝 for windows](https://pan.baidu.com/s/1u5WtltCqfAXEcjD7xAG-aQ)
-  * 提取码：a7it
+* [账密宝 for windows](https://pan.baidu.com/s/1uxd2ZC8UJznlLglKa_M9MA)
+  * 提取码：uufj
 
 #### 参与贡献
 
