@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yokeqi.AMEasy.Winform", "Yokeqi.AMEasy.Winform\Yokeqi.AMEasy.Winform.csproj", "{FD6CC843-933C-4A06-BF11-C0D4D8C4C948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6CC843-933C-4A06-BF11-C0D4D8C4C948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6CC843-933C-4A06-BF11-C0D4D8C4C948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6CC843-933C-4A06-BF11-C0D4D8C4C948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6CC843-933C-4A06-BF11-C0D4D8C4C948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A36ADC-1CD1-4E5F-8151-493FB7990ADA}
+	EndGlobalSection
+EndGlobal
